@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridToDo", "DataGridToDo\DataGridToDo.csproj", "{691CDA09-10CF-43EE-9289-386DFBA40AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691CDA09-10CF-43EE-9289-386DFBA40AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691CDA09-10CF-43EE-9289-386DFBA40AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691CDA09-10CF-43EE-9289-386DFBA40AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691CDA09-10CF-43EE-9289-386DFBA40AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C2F75C-BD9A-4EE5-B0B3-C9B85F976955}
+	EndGlobalSection
+EndGlobal
